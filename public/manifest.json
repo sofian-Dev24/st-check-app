@@ -1,0 +1,20 @@
+{
+  "name": "Sathachon Koh Lanta — ระบบลงเวลาพนักงาน",
+  "short_name": "Sathachon",
+  "description": "ระบบเช็คอิน/เช็คเอาท์พนักงาน Sathachon Koh Lanta",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#efeee9",
+  "theme_color": "#0e0e10",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "business"],
+  "lang": "th"
+}
